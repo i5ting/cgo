@@ -1,26 +1,15 @@
-# je = json editor
+# cgo 
 
-json editor port to npm
-
-[![npm version](https://badge.fury.io/js/je.svg)](http://badge.fury.io/js/je)
+language syntax compare
 
 ## Install 
 
-    [sudo] npm install -g je
+    [sudo] npm install -g cgo
   
 ## Usage
 
 in terminal 
 
 ```
-  je
+  cgo
 ```
-  
-or
- 
-```
-  je -f xxx.json
-  je --url http://xxxx
-```
-
-![](ScreenShot.png)
